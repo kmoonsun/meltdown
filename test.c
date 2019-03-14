@@ -35,7 +35,7 @@ int main(int argc, char *argv[]) {
     fflush(stdout);
     index++;
   }
-
+//
   printf("\x1b[0m\n");
   libkdump_cleanup();
 
